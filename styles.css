@@ -2,15 +2,53 @@
     box-sizing: border-box;
 }
 
+body {
+    width: 375px;
+    
+}
+
 header {
     display: flex;
     justify-content: space-between;
     height: 5vh;
     width: 100%;
-    padding: 10px;
+    align-items: center;
 }
 
+/* para mobile usar 25vw, 2.5vh */
 .logo {
     width: 25vw;
     height: 2.5vh;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.try-free {
+    background-color: white;
+    color: hsl(321, 100%, 78%);
+    border: 2px solid hsl(321, 100%, 78%);
+    border-radius: 50px;
+    padding: 5px 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.get-started {
+    display: block;
+    margin: 50px auto;
+}
+
+.img-1 {
+    max-width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 70px;
+}
+
+p {
+    text-align: center;
+    margin: 0 20px;
 }
