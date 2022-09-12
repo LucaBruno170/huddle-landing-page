@@ -37,6 +37,10 @@ header {
 .get-started {
     display: block;
     margin: 50px auto;
+    border-radius: 50px;
+    padding: 5px 20px;
+    background-color: hsl(321, 100%, 78%);
+    color: white;
 }
 
 .img-1 {
