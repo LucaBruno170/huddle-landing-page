@@ -48,9 +48,9 @@ header {
 
 .img-1 {
     max-width: 100%;
-    object-fit: cover;
+    width: 85%;
     display: block;
-    margin: 40px 30px;
+    margin: 50px auto;
 }
 
 h1 {
