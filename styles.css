@@ -68,3 +68,7 @@ h1 {
     font-weight: 500;
     line-height: 1.6;
 }
+
+.div-2 {
+    display: flex;
+}
