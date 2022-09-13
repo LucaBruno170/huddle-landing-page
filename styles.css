@@ -13,6 +13,7 @@ header {
     height: 5vh;
     width: 100%;
     align-items: center;
+    position: sticky;
 }
 
 /* para mobile usar 25vw, 2.5vh */
@@ -84,6 +85,3 @@ h1 {
     font-size: 30px;
 }
 
-header {
-    position: sticky;
-}
