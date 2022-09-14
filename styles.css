@@ -7,6 +7,10 @@ body {
     
 }
 
+.principal {
+    z-index: 0;
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -15,6 +19,7 @@ header {
     align-items: center;
     position: sticky;
     top: 0;
+    z-index: 1;
 }
 
 /* para mobile usar 25vw, 2.5vh */
