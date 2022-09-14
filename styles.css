@@ -14,7 +14,7 @@ body {
 header {
     display: flex;
     justify-content: space-between;
-    height: 5vh;
+    height: 8vh;
     width: 100%;
     align-items: center;
     position: sticky;
