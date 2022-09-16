@@ -80,8 +80,7 @@ h1 {
 .div-2, .div-3 {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .communities {
