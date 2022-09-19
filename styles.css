@@ -83,12 +83,14 @@ h1 {
 
 .communities {
     width: 30px;
+    position: relative;
     height: 30px;
-    margin-bottom: -30px;
+    top: 60px;
 }
+
 
 .big-number {
     font-size: 60px;
-    margin-bottom: -30px;
+    margin-bottom: -20px;
 }
 
