@@ -94,3 +94,7 @@ h1 {
     margin-bottom: -10px;
 }
 
+.grow-together, .g1, .g2 {
+    max-width: 100%;
+}
+
