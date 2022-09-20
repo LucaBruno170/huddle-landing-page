@@ -98,3 +98,7 @@ h1 {
     max-width: 100%;
 }
 
+.pale-blue {
+    background-color: hsl(207, 100%, 98%);
+}
+
