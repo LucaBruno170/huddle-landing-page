@@ -100,5 +100,10 @@ h1 {
 
 .pale-blue {
     background-color: hsl(207, 100%, 98%);
+    margin-top: 0;
+}
+
+.g1 {
+    margin-bottom: 0;
 }
 
