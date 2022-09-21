@@ -96,6 +96,7 @@ h1 {
 
 .grow-together, .g1, .g2, .f1 {
     max-width: 100%;
+    width: 85%;
 }
 
 .pale-blue {
