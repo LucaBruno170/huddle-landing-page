@@ -101,6 +101,7 @@ h1 {
 .grow-together, .f1, .u1 {
     max-width: 100%;
     width: 85%;
+    display: block;
     margin: 0 auto;
 }
 
