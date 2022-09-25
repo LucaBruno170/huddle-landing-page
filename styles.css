@@ -99,8 +99,7 @@ h1 {
 }
 
 .grow-together, .f1, .u1 {
-    width: 85%;
-    margin: 0 auto;
+    margin: 0 30px;
 }
 
 .pale-blue, .users {
